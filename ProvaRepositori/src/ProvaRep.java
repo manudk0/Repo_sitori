@@ -1,19 +1,18 @@
 /**
  * 
  */
-package ExerciciGit;
 
 /**
  * @author Manu_dk1
  *
  */
-public class asdasd {
+public class ProvaRep {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hola mo");
+		// TODO Auto-generated method stub
 
 	}
 
