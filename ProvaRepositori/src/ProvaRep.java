@@ -12,7 +12,8 @@ public class ProvaRep {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hola");
+		int a=100;
+		System.out.println(a+a);
 
 	}
 
