@@ -15,6 +15,7 @@ public class ProvaRep {
 	int a=100;
 	int b=2;
 	System.out.println("pen");
+	System.out.println(a+b);
 	}
 
 }
