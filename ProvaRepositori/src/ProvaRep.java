@@ -13,7 +13,8 @@ public class ProvaRep {
 	 */
 	public static void main(String[] args) {
 	int a=100;
-	int b=10;
+	int b=2;
+	System.out.println("pen");
 	}
 
 }
